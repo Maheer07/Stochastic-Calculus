@@ -3,7 +3,7 @@
 Archive and memory for a daily, interactive stochastic-calculus-for-quant-finance course delivered by email.
 
 - `curriculum.md` — the lesson roadmap and progress pointer. The daily agent reads it to decide what today builds on.
-- `lessons/YYYY-MM-DD.md` — one file per weekday lesson: the concept, worked example, exercises, and the full solutions (solutions are emailed the *next* day, after you have had a chance to reply).
+- `lessons/YYYY-MM-DD.md` — one file per weekday lesson (each email is ~15–20 minutes): the concept, worked example, exercises, and the full solutions (solutions are emailed the *next* day, after you have had a chance to reply).
 - `recaps/YYYY-MM-DD.md` — the Friday-evening weekly summaries.
 - `feedback.md` — your replies and how you did. Topics you struggled with get reinforced in later lessons.
 - `PROMPT.md` — instructions the 11:00 daily lesson agent follows.

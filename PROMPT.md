@@ -33,20 +33,22 @@ Pick today's topic per the Rules at the top of `curriculum.md` (including the co
 2. **Yesterday's solutions**: full worked solutions to the previous lesson's exercises (copied/condensed from the previous lesson file's `Solutions` section).
 3. **Recall** (2–3 lines): the one key result from yesterday that today builds on.
 4. **Reinforcement** (only if `feedback.md` has open entries): one short item per open entry (max 2), from a fresh angle.
-5. **Today's concept** — the core of the lesson, ~600–1000 words:
+5. **Today's concept** — the core of the lesson, ~400–600 words (≈5–7 min read):
    - Motivation: why a quant cares (pricing, hedging, risk, simulation).
    - Intuition first, then the precise statement (definition/theorem), then a sketch proof or derivation of the key step.
    - One fully worked example using the running example from `curriculum.md`.
-   - A short Python/NumPy snippet (≤ 25 lines, runnable as-is with numpy/scipy/matplotlib) that demonstrates or verifies the idea numerically.
+   - A short Python/NumPy snippet (≤ 15 lines, runnable as-is with numpy/scipy/matplotlib) that demonstrates or verifies the idea numerically.
    - "Common pitfall" box: one mistake people make with this concept.
 6. **Your turn** — the interactive exercises the learner replies to:
    - **Q1 Quick check**: multiple choice A–D, plausible distractors.
-   - **Q2 Pen & paper**: a short derivation or computation (5–10 minutes).
-   - **Q3 Code it**: a small simulation task with a concrete number to report back (e.g. "report your Monte Carlo estimate and its standard error").
-   - Optional **Q4 Stretch** (interview-style) on some days.
+   - **Q2 Pen & paper**: a short derivation or computation (3–5 minutes).
+   - **Q3 Code it**: a small simulation task (≈5 minutes, ideally a tweak of today's snippet) with a concrete number to report back (e.g. "report your Monte Carlo estimate and its standard error").
+   - Optional **Q4 Stretch** (interview-style) at most once a week, clearly marked optional and not counted in the time budget.
    - Each with a one-line hint hidden below a "hints" divider.
    - End with: "Reply to this email with your answers (rough working, a photo of handwritten maths, or 'skip' are all fine). I'll grade them and send the full solutions in tomorrow's lesson."
 7. **Tomorrow**: one line teaser of the next topic and how it connects.
+
+**Time budget: the whole email should take 15–20 minutes** — ~8 min reading (sections 1–5) plus ~10 min for Q1–Q3. Keep feedback to ≤ 4 bullets and yesterday's solutions condensed (answer + key step each; full working stays in the repo). If a roadmap topic can't fit, split it across two days rather than overrunning.
 
 Formatting: math as readable Unicode inline (`dS_t = μ S_t dt + σ S_t dW_t`, `E[W_t²] = t`, `∫₀ᵗ`, `√t`, `Φ(d₁)`), code in `<pre>` blocks. Keep it skimmable: headers, short paragraphs.
 
@@ -56,6 +58,7 @@ Formatting: math as readable Unicode inline (`dS_t = μ S_t dt + σ S_t dW_t`, `
 - Q1 has exactly one correct option; each distractor is wrong for a specific, explainable reason.
 - The lesson clearly connects to yesterday's and uses consistent notation.
 - Difficulty matches the learner's recent feedback.
+- The email fits the 15–20 minute budget; trim if not.
 - Not a near-duplicate of anything in the last 10 lesson files.
 Fix anything that fails before moving on.
 
