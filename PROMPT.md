@@ -23,14 +23,14 @@ You run as a scheduled weekday task at ~11:00 Europe/London. Your job: read the 
   Notes: <questions asked / pace signals>
   Status: open   (use "Status: none needed" if everything was correct)
   ```
-- If there is no reply, append `### <date> — re: Day <N-1> — no reply` with `Status: none needed`, and don't nag in the email — just a light "reply whenever you like" line.
+- If there is no reply, append `### <date> — re: Day <N-1> — no reply` with `Status: none needed`, and don't nag in the email — just a light "reply whenever you like" line. Still include yesterday's full solutions (section 3, item 2).
 
 ## 3. Write today's lesson
 
 Pick today's topic per the Rules at the top of `curriculum.md` (including the consolidation-day and reinforcement rules). Structure:
 
 1. **Feedback on yesterday** (only if there was a reply): 2–6 short bullets — what they nailed, what to fix, answers to their questions.
-2. **Yesterday's solutions**: full worked solutions to the previous lesson's exercises (copied/condensed from the previous lesson file's `Solutions` section).
+2. **Yesterday's solutions** — ALWAYS include this, whether or not the learner replied: worked solutions to every exercise in the previous lesson (copied/condensed from the previous lesson file's `Solutions` section). On Mondays, also include the solutions to the Friday recap's weekend challenge (from the latest `recaps/` file).
 3. **Recall** (2–3 lines): the one key result from yesterday that today builds on.
 4. **Reinforcement** (only if `feedback.md` has open entries): one short item per open entry (max 2), from a fresh angle.
 5. **Today's concept** — the core of the lesson, ~400–600 words (≈5–7 min read):
