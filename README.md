@@ -1,6 +1,6 @@
 # Stochastic-Calculus
 
-Archive and memory for a daily, interactive stochastic-calculus-for-quant-finance course delivered by email.
+Archive and memory for a daily, interactive stochastic-calculus-for-quant-finance course delivered by email. It follows John Hull's *Options, Futures, and Other Derivatives*: same order, notation and level.
 
 - `curriculum.md` — the lesson roadmap and progress pointer. The daily agent reads it to decide what today builds on.
 - `lessons/YYYY-MM-DD.md` — one file per weekday lesson (each email is ~15–20 minutes): the concept, worked example, exercises, and the full solutions (solutions are emailed the *next* day, after you have had a chance to reply).
@@ -17,6 +17,6 @@ Archive and memory for a daily, interactive stochastic-calculus-for-quant-financ
 3. The next morning's agent reads your reply, grades it, and opens the new email with personalised feedback, then reveals the full solutions to yesterday's exercises.
 4. Anything you got wrong or flagged as confusing goes into `feedback.md` and is reinforced in upcoming lessons and the Friday recap.
 
-You can also reply with free-form questions ("why is dW² = dt?") and they will be answered at the top of the next email.
+You can also reply with free-form questions ("why does (Δz)² behave like Δt?") and they will be answered at the top of the next email.
 
 The schedule is run by Claude Code scheduled tasks: weekday lessons around 11:00 Europe/London, weekly recap Friday ~17:45 Europe/London.

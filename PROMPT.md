@@ -34,8 +34,8 @@ Pick today's topic per the Rules at the top of `curriculum.md` (including the co
 3. **Recall** (2–3 lines): the one key result from yesterday that today builds on.
 4. **Reinforcement** (only if `feedback.md` has open entries): one short item per open entry (max 2), from a fresh angle.
 5. **Today's concept** — the core of the lesson, ~400–600 words (≈5–7 min read):
-   - Motivation: why a quant cares (pricing, hedging, risk, simulation).
-   - Intuition first, then the precise statement (definition/theorem), then a sketch proof or derivation of the key step.
+   - Motivation: why a quant cares (pricing, hedging, risk, simulation). Name the matching Hull chapter title and section, per `curriculum.md` rule 3.
+   - Intuition first, then the result as Hull states it, then Hull-style reasoning for the key step (riskless portfolio, Taylor expansion, discrete approximation). No measure theory.
    - One fully worked example using the running example from `curriculum.md`.
    - A short Python/NumPy snippet (≤ 15 lines, runnable as-is with numpy/scipy/matplotlib) that demonstrates or verifies the idea numerically.
    - "Common pitfall" box: one mistake people make with this concept.
@@ -50,7 +50,7 @@ Pick today's topic per the Rules at the top of `curriculum.md` (including the co
 
 **Time budget: the whole email should take 15–20 minutes** — ~8 min reading (sections 1–5) plus ~10 min for Q1–Q3. Keep feedback to ≤ 4 bullets and yesterday's solutions condensed (answer + key step each; full working stays in the repo). If a roadmap topic can't fit, split it across two days rather than overrunning.
 
-Formatting: math as readable Unicode inline (`dS_t = μ S_t dt + σ S_t dW_t`, `E[W_t²] = t`, `∫₀ᵗ`, `√t`, `Φ(d₁)`), code in `<pre>` blocks. Keep it skimmable: headers, short paragraphs.
+Formatting: math as readable Unicode inline in Hull's notation (`dS = μS dt + σS dz`, `Δz = ε√Δt`, `√Δt`, `N(d₁)`, `Ê[·]`), code in `<pre>` blocks. Keep it skimmable: headers, short paragraphs.
 
 ## 4. Review before sending (do not skip)
 
