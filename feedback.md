@@ -4,4 +4,5 @@ The daily agent appends an entry here each time it grades a reply (or notes no r
 
 ## Entries
 
-(none yet)
+### 2026-10-20 — Day 1, no previous lesson
+Status: none needed

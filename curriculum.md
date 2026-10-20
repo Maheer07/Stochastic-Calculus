@@ -12,17 +12,19 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 0
-- `week_number`: 0
-- `last_lesson_index`: 0
+- `day_number`: 1
+- `week_number`: 1
+- `last_lesson_index`: 1
 - `part`: (none)
-- `last_sent_date`: (none yet)
-- `last_topic`: (none yet)
-- `last_lesson_file`: (none yet)
+- `last_sent_date`: 2026-10-20
+- `last_topic`: L1 Probability spaces, σ-algebras as information & filtrations
+- `last_lesson_file`: lessons/2026-10-20.md
 
 ## Log
 
 (newest at the bottom; e.g. `Day 1 — 2026-10-20 — L1 Probability spaces, filtrations & information`)
+
+Day 1 — 2026-10-20 — L1 Probability spaces, σ-algebras as information & filtrations
 
 ## Roadmap
 
