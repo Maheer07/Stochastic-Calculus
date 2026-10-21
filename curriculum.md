@@ -19,19 +19,20 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 1
+- `day_number`: 2
 - `week_number`: 1
-- `last_lesson_index`: 1
+- `last_lesson_index`: 2
 - `part`: (none)
-- `last_sent_date`: 2026-10-20
-- `last_topic`: L1 Probability spaces, σ-algebras as information & filtrations
-- `last_lesson_file`: lessons/2026-10-20.md
+- `last_sent_date`: 2026-10-21
+- `last_topic`: L2 Normal & lognormal distributions; simple vs continuously compounded returns
+- `last_lesson_file`: lessons/2026-10-21.md
 
 ## Log
 
 (newest at the bottom; e.g. `Day 1 — 2026-10-20 — L1 Probability spaces, filtrations & information`)
 
 Day 1 — 2026-10-20 — L1 Probability spaces, σ-algebras as information & filtrations
+Day 2 — 2026-10-21 — L2 Normal & lognormal distributions; simple vs continuously compounded returns
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
