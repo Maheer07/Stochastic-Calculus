@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 3
+- `day_number`: 4
 - `week_number`: 1
-- `last_lesson_index`: 3
+- `last_lesson_index`: 4
 - `part`: (none)
-- `last_sent_date`: 2026-10-22
-- `last_topic`: L3 Expectations given today's information, martingales, discounting
-- `last_lesson_file`: lessons/2026-10-22.md
+- `last_sent_date`: 2026-10-23
+- `last_topic`: L4 One-step binomial tree: no-arbitrage, riskless portfolio, Δ
+- `last_lesson_file`: lessons/2026-10-23.md
 
 ## Log
 
@@ -34,6 +34,7 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 Day 1 — 2026-10-20 — L1 Probability spaces, σ-algebras as information & filtrations
 Day 2 — 2026-10-21 — L2 Normal & lognormal distributions; simple vs continuously compounded returns
 Day 3 — 2026-10-22 — L3 Expectations given today's information, martingales, discounting
+Day 4 — 2026-10-23 — L4 One-step binomial tree: no-arbitrage, riskless portfolio, Δ
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
