@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 5
+- `day_number`: 6
 - `week_number`: 2
-- `last_lesson_index`: 5
+- `last_lesson_index`: 6
 - `part`: (none)
-- `last_sent_date`: 2026-10-26
-- `last_topic`: L5 Risk-neutral valuation; real world vs risk-neutral world
-- `last_lesson_file`: lessons/2026-10-26.md
+- `last_sent_date`: 2026-10-27
+- `last_topic`: L6 Two-step trees: backward induction, Δ through the tree
+- `last_lesson_file`: lessons/2026-10-27.md
 
 ## Log
 
@@ -36,6 +36,7 @@ Day 2 — 2026-10-21 — L2 Normal & lognormal distributions; simple vs continuo
 Day 3 — 2026-10-22 — L3 Expectations given today's information, martingales, discounting
 Day 4 — 2026-10-23 — L4 One-step binomial tree: no-arbitrage, riskless portfolio, Δ
 Day 5 — 2026-10-26 — L5 Risk-neutral valuation; real world vs risk-neutral world
+Day 6 — 2026-10-27 — L6 Two-step trees: backward induction, Δ through the tree
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
