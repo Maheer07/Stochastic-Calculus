@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 8
+- `day_number`: 9
 - `week_number`: 2
-- `last_lesson_index`: 8
+- `last_lesson_index`: 9
 - `part`: (none)
-- `last_sent_date`: 2026-10-29
-- `last_topic`: L8 Module A review: from trees to continuous time
-- `last_lesson_file`: lessons/2026-10-29.md
+- `last_sent_date`: 2026-10-30
+- `last_topic`: L9 The Markov property and continuous-time processes
+- `last_lesson_file`: lessons/2026-10-30.md
 
 ## Log
 
@@ -39,6 +39,7 @@ Day 5 — 2026-10-26 — L5 Risk-neutral valuation; real world vs risk-neutral w
 Day 6 — 2026-10-27 — L6 Two-step trees: backward induction, Δ through the tree
 Day 7 — 2026-10-28 — L7 American options on trees; u = e^{σ√Δt}; more steps
 Day 8 — 2026-10-29 — L8 Module A review: from trees to continuous time
+Day 9 — 2026-10-30 — L9 The Markov property and continuous-time processes
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
