@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 12
+- `day_number`: 13
 - `week_number`: 3
-- `last_lesson_index`: 12
+- `last_lesson_index`: 13
 - `part`: (none)
-- `last_sent_date`: 2026-11-04
-- `last_topic`: L12 The process for a stock price: dS = μS dt + σS dz
-- `last_lesson_file`: lessons/2026-11-04.md
+- `last_sent_date`: 2026-11-05
+- `last_topic`: L13 Why (Δz)² behaves like Δt
+- `last_lesson_file`: lessons/2026-11-05.md
 
 ## Log
 
@@ -43,6 +43,7 @@ Day 9 — 2026-10-30 — L9 The Markov property and continuous-time processes
 Day 10 — 2026-11-02 — L10 The Wiener process
 Day 11 — 2026-11-03 — L11 Generalized Wiener process and Itô processes
 Day 12 — 2026-11-04 — L12 The process for a stock price: dS = μS dt + σS dz
+Day 13 — 2026-11-05 — L13 Why (Δz)² behaves like Δt
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
