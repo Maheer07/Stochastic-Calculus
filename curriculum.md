@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 14
-- `week_number`: 3
-- `last_lesson_index`: 14
+- `day_number`: 15
+- `week_number`: 4
+- `last_lesson_index`: 15
 - `part`: (none)
-- `last_sent_date`: 2026-11-06
-- `last_topic`: L14 Itô's lemma
-- `last_lesson_file`: lessons/2026-11-06.md
+- `last_sent_date`: 2026-11-09
+- `last_topic`: L15 Applications of Itô's lemma: forwards and the lognormal property
+- `last_lesson_file`: lessons/2026-11-09.md
 
 ## Log
 
@@ -45,6 +45,7 @@ Day 11 — 2026-11-03 — L11 Generalized Wiener process and Itô processes
 Day 12 — 2026-11-04 — L12 The process for a stock price: dS = μS dt + σS dz
 Day 13 — 2026-11-05 — L13 Why (Δz)² behaves like Δt
 Day 14 — 2026-11-06 — L14 Itô's lemma
+Day 15 — 2026-11-09 — L15 Applications of Itô's lemma: forwards and the lognormal property
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
