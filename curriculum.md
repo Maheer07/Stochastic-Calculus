@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 16
+- `day_number`: 17
 - `week_number`: 4
-- `last_lesson_index`: 16
+- `last_lesson_index`: 17
 - `part`: (none)
-- `last_sent_date`: 2026-11-10
-- `last_topic`: L16 Correlated processes, multivariable Itô; Module B review
-- `last_lesson_file`: lessons/2026-11-10.md
+- `last_sent_date`: 2026-11-11
+- `last_topic`: L17 Distribution of the rate of return; μ vs μ − σ²/2
+- `last_lesson_file`: lessons/2026-11-11.md
 
 ## Log
 
@@ -47,6 +47,7 @@ Day 13 — 2026-11-05 — L13 Why (Δz)² behaves like Δt
 Day 14 — 2026-11-06 — L14 Itô's lemma
 Day 15 — 2026-11-09 — L15 Applications of Itô's lemma: forwards and the lognormal property
 Day 16 — 2026-11-10 — L16 Correlated processes, multivariable Itô; Module B review
+Day 17 — 2026-11-11 — L17 Distribution of the rate of return; μ vs μ − σ²/2
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
