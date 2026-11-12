@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 17
+- `day_number`: 18
 - `week_number`: 4
-- `last_lesson_index`: 17
+- `last_lesson_index`: 18
 - `part`: (none)
-- `last_sent_date`: 2026-11-11
-- `last_topic`: L17 Distribution of the rate of return; μ vs μ − σ²/2
-- `last_lesson_file`: lessons/2026-11-11.md
+- `last_sent_date`: 2026-11-12
+- `last_topic`: L18 Estimating volatility; trading days vs calendar days
+- `last_lesson_file`: lessons/2026-11-12.md
 
 ## Log
 
@@ -48,6 +48,7 @@ Day 14 — 2026-11-06 — L14 Itô's lemma
 Day 15 — 2026-11-09 — L15 Applications of Itô's lemma: forwards and the lognormal property
 Day 16 — 2026-11-10 — L16 Correlated processes, multivariable Itô; Module B review
 Day 17 — 2026-11-11 — L17 Distribution of the rate of return; μ vs μ − σ²/2
+Day 18 — 2026-11-12 — L18 Estimating volatility; trading days vs calendar days
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
