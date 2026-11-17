@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 20
+- `day_number`: 21
 - `week_number`: 5
 - `last_lesson_index`: 19
-- `part`: (none)
-- `last_sent_date`: 2026-11-16
-- `last_topic`: L19 BSM differential equation (part 2/2)
-- `last_lesson_file`: lessons/2026-11-16.md
+- `part`: 1/2
+- `last_sent_date`: 2026-11-17
+- `last_topic`: L20 Risk-neutral valuation and BSM formulas (part 1/2)
+- `last_lesson_file`: lessons/2026-11-17.md
 
 ## Log
 
@@ -51,6 +51,7 @@ Day 17 — 2026-11-11 — L17 Distribution of the rate of return; μ vs μ − �
 Day 18 — 2026-11-12 — L18 Estimating volatility; trading days vs calendar days
 Day 19 — 2026-11-13 — L19 BSM differential equation (part 1/2): the riskless portfolio
 Day 20 — 2026-11-16 — L19 BSM differential equation (part 2/2)
+Day 21 — 2026-11-17 — L20 Risk-neutral valuation and BSM formulas (part 1/2)
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
