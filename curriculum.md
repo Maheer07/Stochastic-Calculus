@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 23
+- `day_number`: 24
 - `week_number`: 5
-- `last_lesson_index`: 21
+- `last_lesson_index`: 22
 - `part`: (none)
-- `last_sent_date`: 2026-11-19
-- `last_topic`: L21 Implied volatility; dividends
-- `last_lesson_file`: lessons/2026-11-19.md
+- `last_sent_date`: 2026-11-20
+- `last_topic`: L22 Module C review: BSM three ways
+- `last_lesson_file`: lessons/2026-11-20.md
 
 ## Log
 
@@ -54,6 +54,7 @@ Day 20 — 2026-11-16 — L19 BSM differential equation (part 2/2)
 Day 21 — 2026-11-17 — L20 Risk-neutral valuation and BSM formulas (part 1/2)
 Day 22 — 2026-11-18 — L20 Understanding N(d1), N(d2); BSM properties (part 2/2)
 Day 23 — 2026-11-19 — L21 Implied volatility; dividends
+Day 24 — 2026-11-20 — L22 Module C review: BSM three ways
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
