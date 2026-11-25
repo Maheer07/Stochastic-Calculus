@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 26
+- `day_number`: 27
 - `week_number`: 6
-- `last_lesson_index`: 24
+- `last_lesson_index`: 25
 - `part`: (none)
-- `last_sent_date`: 2026-11-24
-- `last_topic`: L24 Theta and gamma
-- `last_lesson_file`: lessons/2026-11-24.md
+- `last_sent_date`: 2026-11-25
+- `last_topic`: L25 Vega and rho; delta-gamma-vega neutral
+- `last_lesson_file`: lessons/2026-11-25.md
 
 ## Log
 
@@ -57,6 +57,7 @@ Day 23 — 2026-11-19 — L21 Implied volatility; dividends
 Day 24 — 2026-11-20 — L22 Module C review: BSM three ways
 Day 25 — 2026-11-23 — L23 Delta hedging; stop-loss; hedging P&L
 Day 26 — 2026-11-24 — L24 Theta and gamma
+Day 27 — 2026-11-25 — L25 Vega and rho; delta-gamma-vega neutral
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
