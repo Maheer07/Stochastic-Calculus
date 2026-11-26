@@ -19,13 +19,13 @@ Source of truth for "where we are". The daily agent reads **Progress**, teaches 
 
 ## Progress
 
-- `day_number`: 27
+- `day_number`: 28
 - `week_number`: 6
-- `last_lesson_index`: 25
+- `last_lesson_index`: 26
 - `part`: (none)
-- `last_sent_date`: 2026-11-25
-- `last_topic`: L25 Vega and rho; delta-gamma-vega neutral
-- `last_lesson_file`: lessons/2026-11-25.md
+- `last_sent_date`: 2026-11-26
+- `last_topic`: L26 Hedging in practice, scenario analysis; Module D review
+- `last_lesson_file`: lessons/2026-11-26.md
 
 ## Log
 
@@ -58,6 +58,7 @@ Day 24 — 2026-11-20 — L22 Module C review: BSM three ways
 Day 25 — 2026-11-23 — L23 Delta hedging; stop-loss; hedging P&L
 Day 26 — 2026-11-24 — L24 Theta and gamma
 Day 27 — 2026-11-25 — L25 Vega and rho; delta-gamma-vega neutral
+Day 28 — 2026-11-26 — L26 Hedging in practice, scenario analysis; Module D review
 
 ## Roadmap (follows Hull's chapter order; chapter titles in *italics*)
 
